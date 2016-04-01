@@ -19,7 +19,10 @@ WooProductImporter
 WooCommerce Polylang Integration
 ## Plugins Development ##
 ### Plugin skeleton/Framework ###
+Skeleton
+Autoupdate
 ### Database ORM ###
+wp-orm
 ## Themes ##
 ### Free Responsive Themes ###
 ### Clean Themes ###
