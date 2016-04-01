@@ -13,6 +13,9 @@ SEO by Yoast
 ### Cache ###
 ### Localization, i18n
 Polylang
+### Forms
+wp-forms
+Contact Form 7
 ### E-Commerce ###
 WooCommerce
 WooProductImporter
