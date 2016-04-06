@@ -11,6 +11,7 @@ Custom Fileds Suite
 SEO by Yoast
 ### Sitemap ###
 ### Cache ###
+### Roles/Access Manager ###
 ### Localization, i18n
 Polylang
 ### Forms
