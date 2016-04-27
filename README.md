@@ -33,5 +33,5 @@ wp-orm
 ### Highly Customizable Themes ###
 ### Theme Development ###
 ## Automation ##
-### Dependency Management ###
+http://wp-cli.org/
 ## Manuals ##
