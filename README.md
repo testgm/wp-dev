@@ -34,5 +34,6 @@ wp-orm
 ### Theme Development ###
 ## Automation ##
 http://wp-cli.org/
-http://wpgear.org/
+https://wpcligui.com/
 ## Manuals ##
+http://wpgear.org/
