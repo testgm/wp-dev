@@ -35,5 +35,7 @@ wp-orm
 ## Automation ##
 http://wp-cli.org/
 https://wpcligui.com/
+## Testing ##
+http://codeception.com/for/wordpress
 ## Manuals ##
 http://wpgear.org/
