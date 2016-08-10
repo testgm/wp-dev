@@ -3,6 +3,7 @@
 ### Custom Post Types ###
 Types
 Template Builder (?)
+Posts 2 Posts https://github.com/scribu/wp-posts-to-posts/
 ### Custom Fields ###
 Advanced Custom Fields (ACF)
 Custom Fileds Suite
